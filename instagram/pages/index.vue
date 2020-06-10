@@ -40,9 +40,9 @@ export default {
       return {
     downloaded : this.$store.state.downloaded,
     liked : this.$store.state.liked,
-    imgs : ['1.png', '2.png', '5.png'],
-    titles : ['Viki Odintcova', 'Lionel Messi (La Pulga)', 'Rosé'],
-    desc : ['Привет всем', 'qué partido !', '안녕 여러분!'],
+    imgs : ['ariane5.jpg', 'image0.jpg', 'tesla.jpg'],
+    titles : ['Ariane5', 'Dev meme', 'Tesla roadster'],
+    desc : ['test', 'qué partido !', '안녕 여러분!'],
     dest : '/liked'
     }
   } ,
