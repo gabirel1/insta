@@ -1,6 +1,6 @@
 # insta
 Instagram like using Vue.js, following Mathilde Couston's workshop
 
-REQUIREMENT : ```Vue.js``` ```yarn```
+**REQUIREMENTS :** ```Vue.js``` ```yarn```
 
-TO START : ```sudo yarn dev``` or ```yarn dev```
+**TO START :** ```sudo yarn dev``` or ```yarn dev```
