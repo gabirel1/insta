@@ -1,5 +1,5 @@
 # insta
-Instagram like using Vue.js, following Mathilde Couston's workshop
+Instagram like using Vue.js
 
 **REQUIREMENTS :** ```Vue.js``` ```yarn```
 
